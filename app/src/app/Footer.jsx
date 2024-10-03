@@ -6,7 +6,7 @@ const Footer = () => {
 
 
             <div className='flex justify-start text-start items-start'>
-                <h1 className='text-[10px] sm:text-[15px] ml-5 '>FRONT END DEVELOPER</h1>
+                <h1 className='text-[10px] sm:text-[15px] ml-5 '>FRONT END SOFTWARE DEVELOPER</h1>
             </div>
 
 
